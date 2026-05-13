@@ -1,1 +1,133 @@
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um Analista de Segurança da Informação:
 
+Monitorar sistemas e redes para identificar atividades suspeitas
+
+Implementar políticas de segurança e conformidade
+
+Realizar testes de vulnerabilidade e pentests básicos
+
+Responder a incidentes e elaborar relatórios técnicos
+
+Treinar usuários e equipes sobre boas práticas de segurança
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Fundamentos de redes e protocolos (TCP/IP, HTTP, DNS)
+
+Segurança de sistemas operacionais (Windows/Linux)
+
+Criptografia e autenticação
+
+NICE-TO-HAVE (complementares):
+
+Conhecimento em Cloud Security (AWS, Azure)
+
+Noções de DevSecOps
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Wireshark
+
+Kali Linux
+
+SIEM (Splunk, Wazuh)
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 12 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Estudar fundamentos de redes e protocolos
+
+Introdução à segurança da informação (CIA triad, ameaças comuns)
+
+SEMANA 3-4:
+
+Conceitos de criptografia e autenticação
+
+Prática com Linux básico e comandos de segurança
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Instalar e explorar Kali Linux
+
+Realizar testes simples com Nmap e Wireshark
+
+SEMANA 7-8:
+
+Introdução a SIEM (Wazuh ou Splunk)
+
+Simular incidentes e criar relatórios
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Desenvolver projeto de portfólio (lab de segurança)
+
+Documentar vulnerabilidades encontradas e correções
+
+SEMANA 11-12:
+
+Revisar conceitos para entrevistas
+
+Treinar respostas a perguntas técnicas e comportamentais
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Laboratório de Segurança Doméstico
+
+O QUE FAZER:  
+Montar um ambiente virtual com máquinas simulando servidores e clientes, aplicar ferramentas de análise e documentar vulnerabilidades.
+
+ENTREGÁVEIS:
+
+Relatório de vulnerabilidades encontradas
+
+Scripts de automação de testes básicos
+
+Guia de boas práticas para usuários
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Ambiente funcional com pelo menos 2 máquinas virtuais
+
+Relatório claro e estruturado
+
+Demonstração de mitigação de pelo menos 2 vulnerabilidades
+
+DICA: Use VirtualBox ou VMware para criar o ambiente e pratique com cenários reais de ataques simulados.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: O que é a tríade CIA na segurança da informação?
+COMO RESPONDER: Explicar Confidencialidade, Integridade e Disponibilidade com exemplos práticos.
+
+PERGUNTA 2: Como você identificaria uma atividade suspeita em uma rede?
+COMO RESPONDER: Citar uso de SIEM, logs e análise de tráfego com Wireshark.
+
+PERGUNTA 3: Qual a diferença entre criptografia simétrica e assimétrica?
+COMO RESPONDER: Explicar chave única vs. par de chaves, dar exemplo de AES e RSA.
+
+PERGUNTA 4: O que você faria diante de um ataque de ransomware?
+COMO RESPONDER: Isolar sistemas, acionar equipe de resposta, restaurar backups e documentar o incidente.
+
+PERGUNTA 5: Como você mantém-se atualizado em segurança da informação?
+COMO RESPONDER: Mencionar cursos, comunidades, blogs especializados e prática em labs.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Cybersecurity Specialist (Bootcamp DIO)
+
+POR QUE ESSA TRILHA:  
+Ela cobre fundamentos de segurança, prática com ferramentas e simulações de ataques, conectando diretamente com o papel de Analista de Segurança da Informação.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Cybersecurity Specialist"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
